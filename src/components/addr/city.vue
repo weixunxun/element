@@ -1,5 +1,5 @@
 <template>
-    <div>首页</div>
+    <div>城市</div>
 </template>
 
 <script>

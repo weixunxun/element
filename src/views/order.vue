@@ -1,5 +1,7 @@
 <template>
-    <div>首页</div>
+    <div>
+        订单
+    </div>
 </template>
 
 <script>
