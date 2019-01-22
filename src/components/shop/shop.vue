@@ -1,5 +1,5 @@
 <template>
-    <div>nav导航进去的页面</div>
+    <div>店铺点进去的详情页</div>
 </template>
 
 <script>

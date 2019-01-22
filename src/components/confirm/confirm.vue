@@ -1,5 +1,5 @@
 <template>
-    <div>nav导航进去的页面</div>
+    <div>点击结算之后订单页面</div>
 </template>
 
 <script>

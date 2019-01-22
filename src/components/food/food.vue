@@ -1,5 +1,5 @@
 <template>
-    <div>nav导航进去的页面</div>
+    <div>food是顶部nav点进去的界面</div>
 </template>
 
 <script>

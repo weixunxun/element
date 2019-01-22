@@ -1,5 +1,5 @@
 <template>
-    <div>nav导航进去的页面</div>
+    <div>店铺详情点进去的每个食品详情</div>
 </template>
 
 <script>
